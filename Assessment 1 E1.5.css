@@ -1,0 +1,22 @@
+p {align-content:center;
+    background-color:yellow;
+    border: 10px; 
+    color: black;
+    font-family: verdana;
+    margin: 20px;
+    padding: 10px;
+    filter: brightness(50%)
+ }
+
+body {background-color:lightblue;}
+
+h1 {text-align:center;
+background-color:lightgray;}
+h2 {text-align:center;
+background-color:yellow;}
+h3 {text-align:center;
+background-color:lightcoral;}
+
+.Example {background-color:limegreen;
+        margin:20px;
+        padding:10px;}
